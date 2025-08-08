@@ -1,5 +1,5 @@
 
-# 🚀 NSL-KDD Network Intrusion Detection with Feature Selection and Deep Learning
+#  NSL-KDD Network Intrusion Detection with Feature Selection and Deep Learning
 
 ## 📌 Overview
 This project implements a **Network Intrusion Detection System (NIDS)** using the **NSL-KDD dataset**.  
