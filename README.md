@@ -1,8 +1,4 @@
-Here’s a complete, professional **README.md** for your GitHub repository that explains the project clearly, highlights its purpose, and makes it appealing to recruiters, collaborators, or other developers:
 
----
-
-```markdown
 # 🚀 NSL-KDD Network Intrusion Detection with Feature Selection and Deep Learning
 
 ## 📌 Overview
